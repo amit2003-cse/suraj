@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Suraj Education Academy - Official Landing Page
 
-## Getting Started
+A professional, high-conversion landing page built for **Suraj Education Academy**, a premier coaching institute based in Hadapsar, Pune. This project is developed using the latest Next.js and Tailwind CSS frameworks to ensure maximum performance, responsiveness, and SEO visibility.
 
-First, run the development server:
+🌐 **Live URL:** [https://suraj-edu.vercel.app](https://suraj-edu.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Key Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **🎯 Strategic Lead Generation:** Integrated WhatsApp Redirects on every "Get in Touch" and "Get Started" button to convert visitors into students instantly.
+- **🎁 Dynamic Offer Management:** Custom "Mata Rani Offer" popup that triggers automatically after 2 seconds to boost festive/seasonal admission rates.
+- **📱 Mobile-First Design:** Fully responsive layout tested across multiple mobile and desktop viewports, mimicking the professional aesthetic of educational leaders.
+- **🔍 SEO Optimized:** Implemented advanced metadata including Open Graph (OG) tags, Meta Descriptions, and Canonical URLs for superior Google ranking.
+- **💬 Priority Support:** Floating WhatsApp icon with a real-time notification alert (red dot animation) to encourage immediate student queries.
+- **📊 Real-time Analytics:** Integrated Google Analytics (gtag.js) to track visitor traffic and user engagement.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework:** [Next.js 15+](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Vercel](https://vercel.com/)
+- **Analytics:** Google Tag Manager
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚙️ Installation & Setup
 
-## Deploy on Vercel
+To run this project locally on your machine:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/amit2003-cse/suraj.git
+   cd suraj
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+---
+
+## 📁 Project Structure
+
+- `src/app/layout.tsx`: Core layout with SEO Metadata & Analytics scripts.
+- `src/components/`: Reusable UI components (Navbar, Hero, Courses, Testimonials, Popup, etc.).
+- `public/`: Static assets including the custom "Mata Rani Offer" image.
+
+---
+
+## 🤝 Support
+
+For any inquiries or technical support, feel free to contact us via the WhatsApp link provided on the landing page or reach out to the developer.
+
+---
+*Built with ❤️ for Suraj Education Academy.*
