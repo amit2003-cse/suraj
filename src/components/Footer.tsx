@@ -56,7 +56,7 @@ export default function Footer() {
       <div className="border-t border-gray-300 w-full pt-6 flex flex-col items-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm font-medium text-gray-600">
         <p>&copy; 2026 surajeducationacademy | Design & Crafted By pd</p>
         <div className="mt-4 bg-white px-6 py-2 rounded-full border border-gray-100 shadow-sm inline-block">
-          surajeducationacademy.in
+          suraj-edu.vercel.app
         </div>
       </div>
     </footer>

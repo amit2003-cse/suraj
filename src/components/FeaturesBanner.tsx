@@ -45,7 +45,7 @@ export default function FeaturesBanner() {
       <div className="absolute bottom-4 w-full flex justify-between px-8 text-white/50 z-10 text-xs">
           <div><br/></div>
           <div className="bg-white/10 rounded-full px-4 py-1 flex items-center gap-2">
-            <span>surajeducationacademy.in</span>
+            <span>suraj-edu.vercel.app</span>
           </div>
           <div><br/></div>
       </div>
